@@ -1,0 +1,15 @@
+{
+  "name": "node-fruit",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Leonardo Pereyra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "~2.0.21"
+  }
+}

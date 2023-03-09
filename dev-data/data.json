@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Tropical Banana", 
+    "image": "🍌",
+    "from": "India",
+    "nutrients": "vitamin B6, Potassium",
+    "quantity": "6 🍌",
+    "price": "1.50",
+    "organic": false,
+    "description": "Bananas are a truly wonderful fruit that are loved by many! They have a sweet, creamy flavor and a soft, smooth texture that makes them a joy to eat. Whether you enjoy them on their own, sliced on top of cereal or oatmeal, or blended into smoothies, bananas are a versatile and delicious addition to any meal or snack. But not only do they taste great, they are also packed with nutrients that can benefit your health. Bananas are a good source of fiber, which can help promote digestive health and lower cholesterol levels. They are also rich in potassium, which can help regulate blood pressure and support heart health. And because they are low in calories and have a low glycemic index, bananas are a great option for those looking to manage their weight or blood sugar levels. So go ahead and enjoy some delicious bananas today - your taste buds and your body will thank you!"
+  },
+  {
+    "id": 1,
+    "productName": "Great Blueberry",
+    "image": "🫐",
+    "from": "Peru",
+    "nutrients": "vitamin C, vitamin K",
+    "quantity": "250g",
+    "price": "4.00",
+    "organic": true,
+    "description": "Blueberries are a truly wonderful fruit! They are small, round, and bursting with flavor. Whether you eat them fresh or use them in cooking or baking, they are sure to please your taste buds. Not only do they taste great, but they are also incredibly good for you. Blueberries are loaded with antioxidants and other nutrients that can help boost your immune system, support brain health, and protect against chronic diseases. So go ahead and indulge in some delicious blueberries today!"
+  },
+  {
+    "id": 2,
+    "productName": "Juicy Pear",
+    "image": "🍐",
+    "from": "Italy",
+    "nutrients": "vitamin C, vitamin K",
+    "quantity": "3 🍐",
+    "price": "4.50",
+    "organic": false,
+    "description": "Pears are a truly wonderful fruit that are both delicious and good for you! They have a sweet, juicy flavor and a soft, delicate texture that makes them a joy to eat. Pears can be eaten fresh as a snack, sliced in salads, or cooked in desserts and other dishes. Not only do they taste great, but they are also packed with nutrients that can help keep you healthy. Pears are a good source of fiber, which can help promote digestive health and lower cholesterol levels. They also contain antioxidants and other beneficial compounds that can protect against chronic diseases such as heart disease and cancer. So why not add some pears to your diet today and enjoy all the wonderful benefits they have to offer!"
+  },
+  {
+    "id": 3,
+    "productName": "Fresh Watermelon",
+    "image": "🍉",
+    "from": "China",
+    "nutrients": "vitamin C, vitamin A",
+    "quantity": "1 🍉",
+    "price": "8.00",
+    "organic": true,
+    "description": "Watermelon is a truly wonderful fruit that is loved by many! It has a sweet, refreshing flavor and a juicy, crunchy texture that makes it a perfect summertime treat. Not only is it delicious, but it is also packed with nutrients that can benefit your health. Watermelon is a good source of vitamin C, which can help support your immune system, as well as vitamin A, which is important for eye health. It is also rich in potassium, which can help regulate blood pressure and support heart health. And because it has a high water content, watermelon is a great way to stay hydrated on hot summer days. So go ahead and enjoy some delicious watermelon this summer - your taste buds and your body will thank you!"
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Pineapple",
+    "image": "🍍",
+    "from": "Brazil",
+    "nutrients": "vitamin C, Manganese",
+    "quantity": "2 🍍",
+    "price": "7.80",
+    "organic": true,
+    "description": "Pineapple is a truly wonderful fruit that is loved by many! It has a sweet, tangy flavor and a juicy, fibrous texture that makes it a great addition to a variety of dishes. Whether you eat it fresh, grilled, or baked, pineapple is sure to add a burst of tropical flavor to your meals. And not only does it taste great, but it is also packed with nutrients that can benefit your health. Pineapple is a good source of vitamin C, which can help support your immune system and promote healthy skin. It also contains bromelain, an enzyme that can help improve digestion and reduce inflammation. So go ahead and enjoy some delicious pineapple - it's not only a tasty treat, but also a great way to support your health!"
+  }
+]
