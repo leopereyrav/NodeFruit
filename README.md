@@ -9,8 +9,7 @@
 </p>
 
 <h2> How works? </h2>
-<p>
-  To run the project locally:
-    1. Download the necessary packages - npm install
-    1. Run the project - npm start
-</p>
+To run the project locally:
+  1. Download the necessary packages - npm install
+  1. Run the project - npm start
+
