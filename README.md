@@ -10,6 +10,6 @@
 
 <h2> How works? </h2>
 <p>To run the project locally:</p>
-<p>1. Download the necessary packages - npm install</p>
-<p>2. Run the project - npm start</p>
+<p> 1. Download the necessary packages - npm install</p>
+<p> 2. Run the project - npm start</p>
 
